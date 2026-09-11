@@ -67,7 +67,27 @@ IMPACTO  Alto   Participantes          Organizadores
 | Manter satisfeitos | Palestrantes e ministrantes | Confirmar dados publicados, horários, locais e quantidade de inscritos sem sobrecarregar o grupo com detalhes técnicos. | Contato do organizador por e-mail ou mensagem; antes de publicação e em caso de alteração. |
 | Monitorar | Visitantes não autenticados | Acompanhar acessos, buscas e conversões para cadastro/inscrição, mantendo a área pública clara e acessível. | Métricas de uso e formulário de contato; análise periódica. |
 
-## 5. Responsabilidades por stakeholder
+## 5. Matriz de Poder × Interesse
+
+Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta matriz considera especificamente o **poder** de decisão do stakeholder e seu **interesse** no sucesso do SAGE.
+
+|  | **Interesse baixo (1–2)** | **Interesse alto (3–5)** |
+| :-- | :-- | :-- |
+| **Poder alto (3–5)** | **Manter satisfeitos**<br>Coordenação/Direção do IFRN; Setor de TI e infraestrutura | **Gerenciar de perto**<br>Organizadores de eventos; Administradores do sistema; Equipe de desenvolvimento SAGE / 2WW |
+| **Poder baixo (1–2)** | **Monitorar**<br>Visitantes não autenticados | **Manter informados**<br>Participantes e alunos; Palestrantes e ministrantes de minicursos |
+
+| Stakeholder | Poder | Interesse | Estratégia |
+| :---------- | :---: | :-------: | :--------- |
+| Participantes e alunos | 2 | 5 | Manter informados |
+| Organizadores de eventos | 5 | 5 | Gerenciar de perto |
+| Administradores do sistema | 5 | 5 | Gerenciar de perto |
+| Coordenação/Direção do IFRN | 5 | 3 | Manter satisfeitos |
+| Palestrantes e ministrantes | 2 | 4 | Manter informados |
+| Equipe de desenvolvimento SAGE / 2WW | 4 | 5 | Gerenciar de perto |
+| Setor de TI e infraestrutura do IFRN | 4 | 3 | Manter satisfeitos |
+| Visitantes não autenticados | 1 | 2 | Monitorar |
+
+## 6. Responsabilidades por stakeholder
 
 | Stakeholder | Principais responsabilidades no contexto do SAGE |
 | :---------- | :----------------------------------------------- |
@@ -79,7 +99,7 @@ IMPACTO  Alto   Participantes          Organizadores
 | Equipe de desenvolvimento SAGE / 2WW | Desenvolver, testar, documentar e corrigir a plataforma conforme os requisitos priorizados. |
 | Setor de TI e infraestrutura do IFRN | Apoiar hospedagem, disponibilidade, segurança e suporte técnico quando aplicável. |
 
-## 6. Premissas e revisão
+## 7. Premissas e revisão
 
 1. A prioridade dos stakeholders pode mudar conforme a fase do projeto, especialmente durante a realização de grandes eventos.
 2. Novos parceiros institucionais ou serviços integrados devem ser avaliados e incluídos nesta matriz antes de sua adoção.
