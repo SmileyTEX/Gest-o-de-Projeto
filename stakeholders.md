@@ -33,8 +33,6 @@ Este documento identifica as partes interessadas (*stakeholders*) do SAGE — pl
 | Coordenação/Direção do IFRN | Patrocinador institucional | Garantir que a solução esteja alinhada aos eventos institucionais, à imagem do IFRN e às regras da instituição. | 4 | 5 |
 | Palestrantes e ministrantes de minicursos | Externo | Ter informações corretas sobre horário, local, tema e público das atividades que conduzem. | 3 | 2 |
 | Equipe de desenvolvimento SAGE / 2WW | Interno | Implementar, testar, manter a plataforma e transformar requisitos em funcionalidades viáveis. | 4 | 4 |
-| Setor de TI e infraestrutura do IFRN | Interno de apoio | Disponibilidade, segurança, integração técnica, suporte e conformidade do ambiente. | 4 | 4 |
-| Visitantes não autenticados | Externo | Consultar a divulgação e os detalhes públicos dos eventos de maneira rápida e acessível. | 3 | 1 |
 
 ## 3. Matriz de Impacto × Influência
 
@@ -74,7 +72,7 @@ Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta 
 |  | **Interesse baixo (1–2)** | **Interesse alto (3–5)** |
 | :-- | :-- | :-- |
 | **Poder alto (3–5)** | **Manter satisfeitos**<br>Coordenação/Direção do IFRN | **Gerenciar de perto**<br>Organizadores de eventos; Administradores do sistema; Equipe de desenvolvimento SAGE / 2WW |
-| **Poder baixo (1–2)** | **Monitorar**<br>Visitantes não autenticados | **Manter informados**<br>Participantes e alunos; Palestrantes e ministrantes de minicursos |
+| **Poder baixo (1–2)** | **Monitorar**<br>| **Manter informados**<br>Participantes e alunos; Palestrantes e ministrantes de minicursos |
 
 | Stakeholder | Poder | Interesse | Estratégia |
 | :---------- | :---: | :-------: | :--------- |
@@ -84,7 +82,6 @@ Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta 
 | Coordenação/Direção do IFRN | 5 | 3 | Manter satisfeitos |
 | Palestrantes e ministrantes | 2 | 4 | Manter informados |
 | Equipe de desenvolvimento SAGE (Samuel Oliveira, Samuel Almeida, Lukas de Lima, Gabriel Gomez, João Gabriel, Caio Rodrigo)| 4 | 5 | Gerenciar de perto |
-| Visitantes não autenticados | 1 | 2 | Monitorar |
 
 ## 6. Responsabilidades por stakeholder
 
