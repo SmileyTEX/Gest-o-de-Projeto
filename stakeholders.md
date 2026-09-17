@@ -27,9 +27,8 @@ Este documento identifica as partes interessadas (*stakeholders*) do SAGE — pl
 
 | Stakeholder | Tipo | Interesses e necessidades principais | Impacto | Influência |
 | :---------- | :--- | :---------------------------------- | :-----: | :--------: |
-| Participantes e alunos | Primário externo | Encontrar eventos e atividades, realizar inscrições, consultar programação, acompanhar certificados e histórico. | 5 | 3 |
+| Participantes dos Eventos | Primário externo | Encontrar eventos e atividades, realizar inscrições, consultar programação, acompanhar certificados e histórico. | 5 | 3 |
 | Organizadores de eventos | Primário interno | Criar e atualizar eventos e atividades, acompanhar inscritos, registrar presença e emitir certificados. | 5 | 5 |
-| Administradores do sistema | Primário interno | Controlar permissões, promover usuários a organizadores e preservar a integridade da operação. | 5 | 5 |
 | Coordenação/Direção do IFRN | Patrocinador institucional | Garantir que a solução esteja alinhada aos eventos institucionais, à imagem do IFRN e às regras da instituição. | 4 | 5 |
 | Palestrantes e ministrantes de minicursos | Externo | Ter informações corretas sobre horário, local, tema e público das atividades que conduzem. | 3 | 2 |
 | Equipe de desenvolvimento SAGE / 2WW | Interno | Implementar, testar, manter a plataforma e transformar requisitos em funcionalidades viáveis. | 4 | 4 |
@@ -78,7 +77,6 @@ Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta 
 | :---------- | :---: | :-------: | :--------- |
 | Participantes e alunos | 2 | 5 | Manter informados |
 | Organizadores de eventos | 5 | 5 | Gerenciar de perto |
-| Administradores do sistema | 5 | 5 | Gerenciar de perto |
 | Coordenação/Direção do IFRN | 5 | 3 | Manter satisfeitos |
 | Palestrantes e ministrantes | 2 | 4 | Manter informados |
 | Equipe de desenvolvimento SAGE (Samuel Oliveira, Samuel Almeida, Lukas de Lima, Gabriel Gomez, João Gabriel, Caio Rodrigo)| 4 | 5 | Gerenciar de perto |
