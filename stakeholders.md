@@ -83,8 +83,7 @@ Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta 
 | Administradores do sistema | 5 | 5 | Gerenciar de perto |
 | Coordenação/Direção do IFRN | 5 | 3 | Manter satisfeitos |
 | Palestrantes e ministrantes | 2 | 4 | Manter informados |
-| Equipe de desenvolvimento SAGE / 2WW | 4 | 5 | Gerenciar de perto |
-| Setor de TI e infraestrutura do IFRN | 4 | 3 | Manter satisfeitos |
+| Equipe de desenvolvimento SAGE (Samuel Oliveira, Samuel Almeida, Lukas de Lima, Gabriel Gomez, João Gabriel, Caio Rodrigo) / 2WW | 4 | 5 | Gerenciar de perto |
 | Visitantes não autenticados | 1 | 2 | Monitorar |
 
 ## 6. Responsabilidades por stakeholder
