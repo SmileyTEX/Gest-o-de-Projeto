@@ -73,7 +73,7 @@ Embora a matriz de Impacto × Influência apresente uma visão semelhante, esta 
 
 |  | **Interesse baixo (1–2)** | **Interesse alto (3–5)** |
 | :-- | :-- | :-- |
-| **Poder alto (3–5)** | **Manter satisfeitos**<br>Coordenação/Direção do IFRN; Setor de TI e infraestrutura | **Gerenciar de perto**<br>Organizadores de eventos; Administradores do sistema; Equipe de desenvolvimento SAGE / 2WW |
+| **Poder alto (3–5)** | **Manter satisfeitos**<br>Coordenação/Direção do IFRN | **Gerenciar de perto**<br>Organizadores de eventos; Administradores do sistema; Equipe de desenvolvimento SAGE / 2WW |
 | **Poder baixo (1–2)** | **Monitorar**<br>Visitantes não autenticados | **Manter informados**<br>Participantes e alunos; Palestrantes e ministrantes de minicursos |
 
 | Stakeholder | Poder | Interesse | Estratégia |
